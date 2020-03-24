@@ -1,5 +1,5 @@
 {
-  "name": "webpack-filter-warnings-plugin",
+  "name": "@incompass/webpack-filter-warnings-plugin",
   "version": "1.2.1",
   "description": "Allows you to hide certain warnings from webpack compilations",
   "main": "dist/index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattlewis92/webpack-filter-warnings-plugin.git"
+    "url": "git+https://github.com/incompass/webpack-filter-warnings-plugin.git"
   },
   "keywords": [
     "webpack plugin"
@@ -36,9 +36,9 @@
   "author": "Matt Lewis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattlewis92/webpack-filter-warnings-plugin/issues"
+    "url": "https://github.com/incompass/webpack-filter-warnings-plugin/issues"
   },
-  "homepage": "https://github.com/mattlewis92/webpack-filter-warnings-plugin#readme",
+  "homepage": "https://github.com/incompass/webpack-filter-warnings-plugin#readme",
   "files": [
     "dist"
   ],
